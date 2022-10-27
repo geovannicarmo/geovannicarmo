@@ -37,9 +37,26 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d637970726573732d2532334535453545353f7374796c653d666f722d7468652d6261646765266c6f676f3d63797072657373266c6f676f436f6c6f723d303538613565](https://user-images.githubusercontent.com/22403795/198262945-aae169fd-3ed8-431f-aa34-058a22520184.svg)
 
 
+##
+
+  ### Contatos:
+    
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <div> 
+  <a href = "mailto:geovannidocarmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/geovanni-carmo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/geovannicarmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannicarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannicarmo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+
 
